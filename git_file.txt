@@ -1,1 +1,2 @@
 this is new file to git
+added new line to cause conflict while merging
